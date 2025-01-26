@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Currently+failing+my+exams;Hmu+if+you+got+any+job+openings;Help+a+brotha+out+fr;Im+deadass.&font=Fira+Code&color=00FF00&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Currently+failing+my+exams;Hmu+if+you+got+any+job+openings;Help+a+brotha+out+fr;Im+deadass.&font=Fira+Code&color=00FF00&center=true&width=360&height=50">
 </p>
 
 <br>
