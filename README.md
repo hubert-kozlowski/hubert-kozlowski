@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="center">Hmu to make your trillion dollar ideas a reality <br><br> i have no qualifications, but i got ambition.</p>
+<p align="center">Hmu to make your trillion dollar ideas a reality <br><br> i have no qualifications, but i got ambition truuuuust brotha</p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=hubert-kozlowski&color=grey" alt="Visitor Badge">
