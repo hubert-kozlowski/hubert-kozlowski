@@ -10,5 +10,5 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=hubert-kozlowski&color=grey">
 </p>
 <p align="center">
-    <a href="https://github.com/hubert-kozlowski"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kozlowski&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+
 </p>
