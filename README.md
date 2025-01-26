@@ -1,18 +1,36 @@
+<p align="center">
+    <h1 align="center">Hubert Kozlowski</h1>
+</p>
 
 <p align="center">
-    <h1 align="center">hubert kozlowski</h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Currently+failing+my+exams;Hmu+if+you+got+any+job+openings;Help+a+brotha+out+fr;Im+deadass.&font=Fira+Code&color=00FF00&center=true&width=280&height=50">
 </p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=welcome to my profile;if you got any job openings hmu;currently failing my exams;help a brotha out fr;im deadass.;&font=Fira%20Code&color=00FF00&center=true&width=280&height=50">
-</p>
+
 <br>
-<p>hmu to make your trillion dollar ideas a reality <br><br><br><br> i have no qualifications.</p>
 
-
+<p align="center">Hmu to make your trillion dollar ideas a reality <br><br> i have no qualifications, but i got ambition.</p>
 
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=hubert-kozlowski&color=grey">
+    <img src="https://komarev.com/ghpvc/?username=hubert-kozlowski&color=grey" alt="Visitor Badge">
 </p>
-<p align="center">
 
+<!-- GitHub Stats -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hubert-kozlowski&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox" alt="Hubert's GitHub Stats">
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kozlowski&layout=compact&theme=gruvbox" alt="Top Languages">
+</p>
+
+<!-- Streaks -->
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubert-kozlowski&theme=gruvbox" alt="GitHub Streak">
+</p>
+
+<!-- Socials -->
+<p align="center">
+    <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
