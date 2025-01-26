@@ -18,5 +18,5 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kozlowski&layout=compact&theme=gruvbox" alt="Top Languages">
-    These stats are deluded. Fuck webdev
+    <br>These stats are deluded. Fuck webdev
 </p>
