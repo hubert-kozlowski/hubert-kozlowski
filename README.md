@@ -17,6 +17,6 @@
 <!-- Top Languages -->
 
 <p align="center">
-    <img src="https://github-readme-stats-hub.vercel.app/api/top-langs/?username=hubert-kozlowski&layout=compact&theme=gruvbox" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kozlowski&layout=compact&theme=gruvbox&cache_seconds=7200" alt="Top Languages">
     <br>These stats are deluded. Fuck webdev
 </p>
