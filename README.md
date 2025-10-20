@@ -2,7 +2,7 @@
 <p align="center"><em>Software Engineering Student • Prompt Engineer • Future Tech CEO Billionaire</em></p>
 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github;Currently+debugging+my+life;Software+Engineering+Student;Professional+Prompt+Engineer+and+AI+whisperer;Hire+me+before+I+drop+out" alt="Typing animation"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=02b502&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Software+Engineering+Student+@+Moate+College;Professional+Prompt+Engineer+&+AI+Whisperer;Currently+debugging+my+life;Hire+me+before+I+drop+out;" alt="Typing animation"></p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/hubertkozlowski33"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -15,9 +15,10 @@
 
 ---
 ## Hey there 👋
-I'm **Hubert**, a passionate software engineering student with a knack for turning ideas into functional, elegant solutions. I enjoy blending logic with creativity to build projects that solve real-world problems.
+I'm **Hubert**, a passionate software engineering student who enjoys turning ideas into elegant, functional solutions. I love blending logic and creativity to build software that solves real-world problems.
 
-🛠️<em> I'm actively looking for internship opportunities where I can learn, grow, and contribute to meaningful software development work.</em>
+🛠️ *Currently seeking internship opportunities to grow my skills and contribute to impactful projects.*
+
 
 ---
 ### 🏆 Achievements
@@ -27,8 +28,9 @@ I'm **Hubert**, a passionate software engineering student with a knack for turni
     
 ---
 ### ⚙️ Tech Stack
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,rust,lua,git,js,html,css,nodejs"/>
+<p>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,rust,lua" height="500"/><br>
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,nodejs,tailwind,threejs" height="500"/>
 </p>
 
 ---
