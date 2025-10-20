@@ -27,17 +27,21 @@ I'm **Hubert**, a passionate software engineering student who enjoys turning ide
 - 💻 **Senior STEM Student of the Year 2025 *(CBS Mullingar)***
     
 ---
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack & Stats
+<div align="center" style="border: 2px solid #444; border-radius: 15px; padding: 15px; max-width: 650px; margin: auto;">
+
 <p>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,rust,lua" height="500"/><br>
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,nodejs,tailwind,threejs" height="500"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,rust,lua,git,js,html,css,nodejs,tailwind,threejs" height="50" alt="Tech Icons"/>
 </p>
 
----
-### 📊 Github Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hubert-kozlowski&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github" height="165"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubert-kozlowski&theme=gruvbox&hide_border=true" height="165"/>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kozlowski&layout=compact&theme=gruvbox&hide_border=true&langs_count=12&exclude_repo=portfolio-website,random-html-tests" alt="Most Used Languages" />
 </p>
 
----
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=hubert-kozlowski&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubert-kozlowski&theme=gruvbox&hide_border=true" height="165" alt="GitHub Streak Stats"/>
+</p>
+
+</div>
+
