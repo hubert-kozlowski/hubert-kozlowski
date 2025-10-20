@@ -1,13 +1,9 @@
+<h1 align="center">Hubert Kozlowski</h1>
 <p align="center">
-    <h1 align="center">Hubert Kozlowski</h1>
+    <em>Software Engineering Student | Professional Prompt Engineer</em>
 </p>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Currently+failing+my+exams;Hmu+if+you+got+any+job+openings;Help+a+brotha+out+fr;Im+deadass.&font=Fira+Code&color=00FF00&center=true&width=500&height=50">
-</p>
-
-<br>
-
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github;Currently+debugging+my+life;Software+Engineering+Student+at+Moate+Business+College;Professional+Prompt+Engineer+and+AI+whisperer;Hire+me+before+I+drop+out" alt="Typing src"</p>
 <p align="center">Hmu to make your trillion dollar ideas a reality <br><br> <a href="https://www.linkedin.com/in/hubert-kozlowski-237815358/">i have no qualifications</a> </p>
 
 <p align="center">
