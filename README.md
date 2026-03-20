@@ -76,7 +76,7 @@ Built and executed automated test scripts to validate site navigation and lead-g
 
 <img src="icon-512.png" height="55" align="left"/>
 
-**[shippr](https://www.linkedin.com/company/shippr)** — *the gamified PR engine for project-based learning*
+**[shippr](https://www.linkedin.com/company/shippr-dev)** — *the gamified PR engine for project-based learning*
 
 `shippr` abstracts the dev lifecycle into an AI-orchestrated workflow so learners can build a verifiable shipping habit before they ever enter industry. From early learners to industry-bound engineers — build projects that matter. Prove you can ship.
 
