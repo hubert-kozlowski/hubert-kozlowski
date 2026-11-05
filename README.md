@@ -1,7 +1,15 @@
 # hubert kozlowski
 
-Mullingar, Ireland. Technical Lead at [Rianly](https://rianly.com). 18.
+Mullingar, Ireland / Limerick. Immersive Software Engineering student. 18.
 Building things, occasionally breaking them, figuring it out either way.
+
+---
+
+{ now }
+
+Immersive Software Engineering student @ UL, doing some startupping sometimes and classwork from time to time.
+Volunteering at [Give(a)Go](https://giveago.co). Mostly showing up, occasionally useful.
+Part of [Dublin AI Week](https://dublinaiweek.com).
 
 ---
 
@@ -11,12 +19,6 @@ Building things, occasionally breaking them, figuring it out either way.
 🥈 2nd — ZeroDays Cyber-Schools CTF  
 💻 Senior STEM Student of the Year 2025 (CBS Mullingar)  
 🏆 Won the Give(a)Go Hiring Hackathon (Lette track)
-
----
-
-{ when I'm not at a keyboard }
-
-Volunteering at [Give(a)Go](https://giveago.co). Mostly showing up, occasionally useful.
 
 ---
 
